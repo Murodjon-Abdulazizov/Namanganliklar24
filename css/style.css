@@ -47,6 +47,10 @@ color: #4A4B4C;
   background-color: #fff;
   border-radius: 7px;
 }
+
+.site-text a{
+  text-decoration: none;
+}
 .site-money{
   display: flex;
 }
@@ -61,7 +65,7 @@ color: #4A4B4C;
   display: flex;
   align-items: center;
 }
-.button-search button{
+.button-search .button{
   display: flex;
   justify-content: start;
   align-items: center;
@@ -102,9 +106,10 @@ color: #4A4B4C;
   margin-left: 5px;
 }
 
-.site-register button{
+.site-register .site-button{
   background-color: #7296EC;
   color: #fff;
+  text-decoration: none;
   padding: 13px 20px;
   border: none;
   border-radius: 10px;
@@ -133,4 +138,9 @@ color: #4A4B4C;
   line-height: 21px;
   color: #7F7F7F;
   text-decoration: none;
+}
+
+.site-header-img{
+  margin-top: 40px;
+  margin-bottom: 50px;
 }
