@@ -36,6 +36,12 @@ color: #4A4B4C;
   justify-content: space-around;
 }
 
+.site-logo a img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .site-text{
   display: flex;
   justify-content: center;
