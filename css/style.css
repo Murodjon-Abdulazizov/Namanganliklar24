@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
 }
+/* GLOBAL */
 body{
 margin: 0;
 padding: 0;
@@ -13,6 +14,7 @@ line-height: 1.4;
 background-color: #fff;
 color: #4A4B4C;
 }
+
 .container{
   width: 100%;
   max-width: 1200px;
@@ -21,6 +23,8 @@ color: #4A4B4C;
   margin-left: auto;
   margin-right: auto;
 }
+
+/* HEADER */
 .header-top{
   background-color: #f6f6f6;
 }
@@ -122,6 +126,7 @@ color: #4A4B4C;
   line-height: 19px;
 }
 
+/* SITENAVIGATION' */
 .sitenav{
   padding-top: 30px;
   padding-bottom: 20px;
@@ -149,6 +154,7 @@ color: #4A4B4C;
   margin-bottom: 50px;
 }
 
+/* HERO */
 .site-hero-news{
   display: flex;
   justify-content: space-between;
