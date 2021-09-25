@@ -46,11 +46,11 @@ color: #4A4B4C;
   align-items: center;
 }
 
-.site-text{
+.site-logo-img a{
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 8px 6px;
+  padding: 10px 6px;
   margin-right: 35px;
   background-color: #fff;
   border-radius: 7px;
