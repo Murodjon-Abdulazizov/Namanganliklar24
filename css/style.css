@@ -173,14 +173,21 @@ color: #4A4B4C;
   border-radius: 15px;
 }
 
-.site-hero-heading h2{
+.site-hero-heading {
   color: #000;
   font-weight: 500;
-  font-size: 21px;
+  font-size: 20px;
   margin: 10px 0px;
   align-items: center;
 }
 
+.hero-threen{
+  margin-right: 10px;
+}
+
+.hero-six{
+  margin-right: 18px;
+}
 .site-hero-img{
   margin-top: 15px;
   width: 360px;
