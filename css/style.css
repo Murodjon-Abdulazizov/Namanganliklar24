@@ -170,7 +170,32 @@ color: #4A4B4C;
 .site-hero-heading h2{
   color: #000;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 21px;
   margin: 10px 0px;
   align-items: center;
+}
+
+.site-hero-img{
+  margin-top: 15px;
+  width: 360px;
+  height: 165px;
+}
+
+.site-hero-link{
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.site-hero-link img{
+  width: 20px;
+  height: 20px;
+}
+
+.site-hero-link-text{
+  color: #5E5F61;
+  font-size: 12px;
+  line-height: 15px;
+  margin-left: 10px;
 }
