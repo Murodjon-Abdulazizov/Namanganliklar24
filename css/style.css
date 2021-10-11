@@ -402,6 +402,9 @@ hr{
   margin-bottom: 0;
   margin-left: 100px;
 }
+.site-footer-items:first-child{
+  margin-left: 168px;
+}
 
 .site-footer-item {
   list-style-type: none;
@@ -435,5 +438,12 @@ hr{
   height: 25px;
 }
 .footer-social-logo:not(:last-child){
+  margin-right: 25px;
+}
+
+.footer-social-logo-link{
+  text-decoration: none;
+}
+.footer-social-logo-link:not(:last-child){
   margin-right: 25px;
 }
