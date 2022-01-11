@@ -447,3 +447,67 @@ hr{
 .footer-social-logo-link:not(:last-child){
   margin-right: 25px;
 }
+
+
+/* MODAL MENU */
+
+.modal {
+  position: absolute;
+  top: 1120px;
+  left: 300px;
+}
+.modal-menu {
+  width: 850px;
+  height: 250px;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  display: none;
+}
+
+.modal-menu-block{
+  display: block;
+}
+
+.modal-menu-none{
+  display: none;
+}
+
+.modal-menu-item {
+
+}
+.menu-basket {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.modal-menu-button {
+  margin-left: auto;
+  background-color: inherit;
+  border: none;
+  margin-bottom: 6px;
+  cursor: pointer;
+}
+.modal-menu-img {
+  display: flex;
+  width: 24px;
+  height: 24px;
+}
+.modal-menu-title {
+  margin: 0;
+  font-size: 26px;
+  line-height: 34px;
+  font-weight: 500;
+  text-align: center;
+  color: #000;
+  margin-bottom: 25px;
+}
+
+.modal-button{
+  background-color: #f78b3b;
+  color: #fff;
+  padding: 15px 40px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
